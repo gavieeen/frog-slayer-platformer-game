@@ -34,6 +34,7 @@ Your mission is to survive the relentless onslaught of enemy frogs. Here's a bri
 - **Player Health (playerHP):** Watch out for enemy frogs colliding with you. Each collision results in a reduction of your global player health.
 - **Cherry Spawnables:** Cherries randomly spawn to provide health boosts. Collect them strategically.
 - **Survival Goal:** The objective is to survive as long as possible, collecting the maximum amount of gold before eventually succumbing to the increasing number of frogs.
+- [Gameplay DEMO](https://www.youtube.com/watch?v=5yJjnuhCPmo)
 
 ## Controls
 
